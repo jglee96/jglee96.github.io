@@ -19,4 +19,4 @@ sass:
 
 navbar:
  - name: "About"
-   link: "about"
+   absolute-link: "https://www.linkedin.com/in/zakklee/"
